@@ -14,7 +14,7 @@
     "react": "^18.2.0",
     "react-chartjs-2": "^5.3.1",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.26.0"
+    "react-router-dom": "^6.26.0",
     "react-scripts": "5.0.1",
     "recharts": "^3.1.2",
     "web-vitals": "^2.1.4"
@@ -26,12 +26,12 @@
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
-  "extends": ["react-app", "react-app/jest"],
-  "rules": {
-    "no-unused-vars": "off",
-    "react-hooks/exhaustive-deps": "off"
-  }
-},
+    "extends": ["react-app", "react-app/jest"],
+    "rules": {
+      "no-unused-vars": "off",
+      "react-hooks/exhaustive-deps": "off"
+    }
+  },
   "browserslist": {
     "production": [
       ">0.2%",
